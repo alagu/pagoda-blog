@@ -1,0 +1,11 @@
+markdown: rdiscount
+pygments: true
+permalink: /:title
+auto: true
+rdiscount:
+  extensions: [smart]
+
+name: Pagoda Blog
+url: http://alagu.github.io/pagoda-blog
+description: News and Thoughts about Pagoda.
+gravatar_url: /apple-touch-icon.png

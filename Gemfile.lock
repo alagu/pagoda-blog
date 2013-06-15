@@ -1,0 +1,48 @@
+GIT
+  remote: https://github.com/adaoraul/rack-jekyll
+  revision: 1fdeacbc244cea8088c665fc4d3545c6acb71d4e
+  specs:
+    rack-jekyll (0.4.0)
+      jekyll (~> 0.12.0)
+      rack (~> 1.5.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    classifier (1.3.3)
+      fast-stemmer (>= 1.0.0)
+    directory_watcher (1.5.1)
+    fast-stemmer (1.0.2)
+    jekyll (0.12.1)
+      classifier (~> 1.3)
+      directory_watcher (~> 1.1)
+      kramdown (~> 0.14)
+      liquid (~> 2.3)
+      maruku (~> 0.5)
+      pygments.rb (~> 0.3.2)
+    kgio (2.8.0)
+    kramdown (0.14.2)
+    liquid (2.5.0)
+    maruku (0.6.1)
+      syntax (>= 1.0.0)
+    posix-spawn (0.3.6)
+    pygments.rb (0.3.7)
+      posix-spawn (~> 0.3.6)
+      yajl-ruby (~> 1.1.0)
+    rack (1.5.2)
+    raindrops (0.11.0)
+    rdiscount (2.0.7.2)
+    syntax (1.0.0)
+    unicorn (4.6.2)
+      kgio (~> 2.6)
+      rack
+      raindrops (~> 0.7)
+    yajl-ruby (1.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rack-jekyll!
+  rdiscount
+  unicorn
