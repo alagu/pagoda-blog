@@ -1,6 +1,6 @@
 markdown: rdiscount
 pygments: true
-permalink: /:title
+permalink: /:title.html
 auto: true
 rdiscount:
   extensions: [smart]
@@ -8,4 +8,4 @@ rdiscount:
 name: Pagoda Blog
 url: http://alagu.github.io/pagoda-blog
 description: News and Thoughts about Pagoda.
-gravatar_url: /pagoda-logo.png
+gravatar_url: pagoda-logo.png
