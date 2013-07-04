@@ -1,7 +1,7 @@
 ---
 title: ! 'Your Jekyll Editor on Heroku '
 layout: post
-published: false
+published: true
 ---
 The first version of Pagoda worked only locally, which was very restricting for lot of people to setup their own instance.
 
