@@ -1,6 +1,6 @@
 ---
 title: Testing a new item
 layout: post
-published: false
+published: true
 ---
 I'm just testing this -Alagu
