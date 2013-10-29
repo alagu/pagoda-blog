@@ -7,4 +7,4 @@ The first version of Pagoda worked only locally, which was very restricting for 
 
 With the latest push, you could setup your own Pagoda instance on Heroku, with simple steps.
 
-**
+*****
